@@ -1,8 +1,8 @@
-package tests;
+package TestDongDieuKhien.tests;
 
 import org.junit.Test;
 
-import drivers.Driver;
+import TestChucNang.drivers.Driver;
 
 import static org.junit.Assert.assertEquals;
 

@@ -1,4 +1,4 @@
-package drivers;
+package TestChucNang.drivers;
 
 public class Driver {
     public String checkHealthy(double bmi) {
@@ -15,8 +15,4 @@ public class Driver {
         }
     }
 
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-
-    }
 }
